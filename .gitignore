@@ -1,0 +1,8 @@
+# Node.js
+node_modules/
+.env
+
+# TypeScript
+*.tsbuildinfo
+*.ts
+!node_modules/**/*
